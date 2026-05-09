@@ -3,7 +3,7 @@ import javax.swing.*;
 
 
 
-public class Os {
+public class Main {
 
     /**
      * @param args the command line arguments
