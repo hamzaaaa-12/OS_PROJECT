@@ -228,21 +228,6 @@ The interface uses a modern dark-theme design implemented using Java Swing.
 
 Time Quantum = 2
 
----
-
-# Future Improvements
-
-Possible future enhancements:
-
-* Add more scheduling algorithms:
-
-  * FCFS
-  * Priority Scheduling
-  * Non-Preemptive SJF
-* Export results to PDF or CSV
-* Improve Gantt chart animations
-* Add statistics graphs
-* Save and load scheduling scenarios
 
 ---
 
@@ -256,12 +241,6 @@ This project helps demonstrate:
 * GUI Development in Java
 * Data Visualization
 * Algorithm Performance Analysis
-
----
-
-# Author
-
-Developed as an Operating Systems project.
 
 ---
 
